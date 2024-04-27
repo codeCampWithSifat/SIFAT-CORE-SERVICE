@@ -4,7 +4,7 @@ import { CourseController } from './course.controller';
 const router = express.Router();
 
 router.post('/create', CourseController.insertIntoDB);
-// router.get('/', CourseController.getAllFromDB);
+router.get('/', CourseController.getAllFromDB);
 router.get('/:id', CourseController.getByIdFromDB);
 
 /// I intend to explore the update course functionalities in the upcoming module.
