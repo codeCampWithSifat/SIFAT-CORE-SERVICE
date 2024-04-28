@@ -41,16 +41,16 @@ const getAllFromDB = catchAsync(async (req: Request, res: Response) => {
   });
 });
 
-// const updateOneInDB = catchAsync(async (req: Request, res: Response) => {
-//     const { id } = req.params;
-//     const result = await CourseService.updateOneInDB(id, req.body);
-//     sendResponse(res, {
-//         statusCode: httpStatus.OK,
-//         success: true,
-//         message: 'Course updated successfully',
-//         data: result
-//     });
-// })
+const updateOneInDB = catchAsync(async (req: Request, res: Response) => {
+  const { id } = req.params;
+  const result = await CourseService.updateOneInDB(id, req.body);
+  sendResponse(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Course updated successfully',
+    data: result,
+  });
+});
 
 const deleteByIdFromDB = catchAsync(async (req: Request, res: Response) => {
   const { id } = req.params;
@@ -65,7 +65,7 @@ const deleteByIdFromDB = catchAsync(async (req: Request, res: Response) => {
 
 const assignFaculies = catchAsync(async (req: Request, res: Response) => {
   const { id } = req.params;
-  console.log(req.body.faculties);
+  // console.log(req.body.faculties);
   const result = await CourseService.assignFaculties(id, req.body.faculties);
   sendResponse(res, {
     statusCode: httpStatus.OK,
@@ -77,7 +77,7 @@ const assignFaculies = catchAsync(async (req: Request, res: Response) => {
 
 const removeFaculties = catchAsync(async (req: Request, res: Response) => {
   const { id } = req.params;
-  console.log(req.body.faculties);
+  // console.log(req.body.faculties);
   const result = await CourseService.removeFaculties(id, req.body.faculties);
   sendResponse(res, {
     statusCode: httpStatus.OK,
@@ -92,6 +92,7 @@ export const CourseController = {
   getByIdFromDB,
   deleteByIdFromDB,
   getAllFromDB,
+  updateOneInDB,
   assignFaculies,
   removeFaculties,
 };
