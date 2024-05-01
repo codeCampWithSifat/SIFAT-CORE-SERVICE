@@ -259,6 +259,7 @@ const startMyRegistration = async (
     studentSemesterRegistration: studentRegistration,
   };
 };
+
 export const SemesterRegistrationService = {
   insertIntoDB,
   getByIdFromDB,

@@ -194,6 +194,11 @@
             "date": 1714507474807,
             "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\successes\\phu-2024-01-05-02-success.log",
             "hash": "243d5ac5be27efc34bbb70228736ec06b23a7ed619159bcc570b20139138d204"
+        },
+        {
+            "date": 1714595219231,
+            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\successes\\phu-2024-02-05-02-success.log",
+            "hash": "7a89d31e6c11bdccf3e03f73f92502ff4d582b66672576720bbf9755f1b1ff5d"
         }
     ],
     "hashType": "sha256"
