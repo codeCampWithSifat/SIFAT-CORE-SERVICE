@@ -214,6 +214,16 @@
             "date": 1714610311308,
             "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-02-05-06-error.log",
             "hash": "0d09c3c45ed2b8e8f0e9c68df6b9575fa45df3f25d5c054756fec592508eebeb"
+        },
+        {
+            "date": 1714611885680,
+            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-02-05-07-error.log",
+            "hash": "d5ca12be9ae8a4a7c978f9722b5d4718ddf08b396c5b85b009208c61cb6a9a32"
+        },
+        {
+            "date": 1714617143980,
+            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-02-05-08-error.log",
+            "hash": "a5bf4f90241d2c5c9265854ba478ad4d4e1c5da3bd447d200771cf42435c89c6"
         }
     ],
     "hashType": "sha256"
