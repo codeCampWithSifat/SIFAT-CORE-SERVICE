@@ -1,0 +1,34 @@
+Sun May 05 2024 11:11:4 } [PH] error: 
+Invalid `prisma.studentEnrolledCourse.create()` invocation:
+
+{
+  data: {
+    studentId: "cd3439a9-e502-4d1e-b443-bc4e4d36e9df",
+    courseId: undefined,
+    academicSemesterId: "636cfecf-78cd-4186-991f-68c809396475",
++   student: {
++     create: StudentCreateWithoutStudentEnrolledCoursesInput | StudentUncheckedCreateWithoutStudentEnrolledCoursesInput,
++     connectOrCreate: StudentCreateOrConnectWithoutStudentEnrolledCoursesInput,
++     connect: StudentWhereUniqueInput
++   }
+  }
+}
+
+Argument `student` is missing.
+Sun May 05 2024 11:12:15 } [PH] error: 
+Invalid `prisma.studentEnrolledCourse.create()` invocation:
+
+{
+  data: {
+    studentId: "cd3439a9-e502-4d1e-b443-bc4e4d36e9df",
+    courseId: undefined,
+    academicSemesterId: "636cfecf-78cd-4186-991f-68c809396475",
++   student: {
++     create: StudentCreateWithoutStudentEnrolledCoursesInput | StudentUncheckedCreateWithoutStudentEnrolledCoursesInput,
++     connectOrCreate: StudentCreateOrConnectWithoutStudentEnrolledCoursesInput,
++     connect: StudentWhereUniqueInput
++   }
+  }
+}
+
+Argument `student` is missing.
