@@ -1,0 +1,5 @@
+Mon May 06 2024 9:58:34 } [PH] error: 
+Invalid `prisma.studentEnrolledCourse.findFirst()` invocation:
+
+
+Transaction API error: Transaction already closed: Could not perform operation.
