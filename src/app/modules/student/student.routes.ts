@@ -6,6 +6,12 @@ import { StudentController } from './student.controller';
 import { StudentValidation } from './student.validation';
 
 const router = express.Router();
+
+router.get(
+  '/my-courses',
+  auth(ENUM_USER_ROLE.STUDENT),
+  StudentController.myCourses
+);
 router.post(
   '/create',
   auth(ENUM_USER_ROLE.SUPER_ADMIN, ENUM_USER_ROLE.ADMIN),

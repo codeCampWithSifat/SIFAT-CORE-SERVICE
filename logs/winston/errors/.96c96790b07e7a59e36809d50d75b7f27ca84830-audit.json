@@ -6,26 +6,6 @@
     "auditLog": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\.96c96790b07e7a59e36809d50d75b7f27ca84830-audit.json",
     "files": [
         {
-            "date": 1713992406130,
-            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-25-04-03-error.log",
-            "hash": "f379791a9794eb4b64caa92a7d5b2a21734847af7d7a87737170d738ff6f669b"
-        },
-        {
-            "date": 1713996075726,
-            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-25-04-04-error.log",
-            "hash": "d76b0646f79903f849ab129c92b7683fbf9a1445d551f133c08643fb93b5bec3"
-        },
-        {
-            "date": 1714004866912,
-            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-25-04-06-error.log",
-            "hash": "91d0092bf631d43abcdcdbf07f57adedf192c5d0aa03961a9ab36499ec7a87de"
-        },
-        {
-            "date": 1714006821965,
-            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-25-04-07-error.log",
-            "hash": "76dc8a548c75eefe6b98f7cdde27205a8b27f27f3c271da8c940151ee432d687"
-        },
-        {
             "date": 1714061398291,
             "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-25-04-22-error.log",
             "hash": "49a9537e4979d58c73f1a3b598d1c4145c0771cbe552c4f0c3ac98fd627db5ec"
@@ -329,6 +309,21 @@
             "date": 1715160383916,
             "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-08-05-15-error.log",
             "hash": "0d489a6b47d5f932c0706367858bdf5f1759fb43f85c42ea5ccb95c06a69e3f0"
+        },
+        {
+            "date": 1715222146257,
+            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-09-05-08-error.log",
+            "hash": "b066c2378c6ec184e1315ae5ca8ff8d72773c4c2a23082bfa43e04ea3084ee75"
+        },
+        {
+            "date": 1715224250549,
+            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-09-05-09-error.log",
+            "hash": "f5433e190a199850b627b95c6ad13aad025409ef43e7501330f9183aaad7b404"
+        },
+        {
+            "date": 1715227973521,
+            "name": "D:\\NEXT_LEVEL_WEB_DEVELOPMENT\\MISSION-6-SIFAT-UNIVERSITY-MANAGEMENT\\BACKEND\\SIFAT-CORE-SERVICE\\logs\\winston\\errors\\phu-2024-09-05-10-error.log",
+            "hash": "312356e7443d0a27670ce277f127bcf3c6f0fd0e6aa969d8fcb710ff6a9bc8b5"
         }
     ],
     "hashType": "sha256"
