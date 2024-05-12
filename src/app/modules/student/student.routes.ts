@@ -12,6 +12,19 @@ router.get(
   auth(ENUM_USER_ROLE.STUDENT),
   StudentController.myCourses
 );
+
+router.get(
+  '/my-courses-schedules',
+  auth(ENUM_USER_ROLE.STUDENT),
+  StudentController.getMyCourseSchedules
+);
+
+router.get(
+  '/my-academic-info',
+  auth(ENUM_USER_ROLE.STUDENT),
+  StudentController.myAcademicInfo
+);
+
 router.post(
   '/create',
   auth(ENUM_USER_ROLE.SUPER_ADMIN, ENUM_USER_ROLE.ADMIN),
